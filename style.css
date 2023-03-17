@@ -1,0 +1,29 @@
+html{
+    background-color: darkred;
+}
+h1{
+    background-color: darkslategray;
+    text-align: center;
+    font-size: 140%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: 120%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    font-size: 130%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    background-color: darkslategray;
+    font-size: 130%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: cornsilk;
+    font-size: 110%;
+}
+iframe{
+    position: absolute;
+}
